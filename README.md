@@ -1,178 +1,22 @@
-<div align="center">
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6" alt="" />
-</div>
+# 💫 About Me:
+- 🔭 I’m currently working on: Solo full-stack projects, while continuously honing my development skills.<br>- 👯 I’m looking to collaborate on: Exciting full-stack projects with a great team or like-minded developers.<br>- 🤝 I’m looking for help with: Discovering and exploring new, interesting AI tools and technologies.<br>- 🌱 I’m currently focusing on: Mastering my core stack—Next.js, Node.js, and Fastify.<br>- 💬 Ask me about: Next.js, TypeScript, Node.js, and Fastify.<br>- ⚡ Fun fact: I'm an eternal student—always looking to absorb knowledge from others rather than teaching! 😆
 
-<br>
 
-<h1 align="center">Payut Tobunma</h1>
-<p align="center">Full Stack Developer · Chaiyaphum, Thailand</p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com) 
 
-<p align="center">
-Self-taught since 2023 — building end-to-end web applications,<br>
-from real-time systems to payment integrations.
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sharkzen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sharkzen&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharkzen&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<a href="mailto:payuttobunma.pt@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=8b95a1" alt="Email" /></a>
-<a href="https://github.com/sharkvortex"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=8b95a1" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=sharkvortex&style=flat-square&color=0d1117&label=Views" alt="Profile Views" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=sharkzen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DEVSHARKCODER) 
 
-## About
-
-I started coding in 2023 and have been learning full-stack development
-through building real projects — from QR-based ordering systems to
-WebSocket chat apps and payment gateway integrations. Currently
-focused on strengthening backend architecture and DevOps.
-
-Open to collaborating on full-stack projects, freelance work, or just
-talking shop about web development.
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td width="120"><sub><b>LANGUAGES</b></sub></td>
-<td>
-
-`JavaScript` `TypeScript` `HTML5` `CSS3` `C++`
-
-</td>
-</tr>
-<tr>
-<td><sub><b>FRONTEND</b></sub></td>
-<td>
-
-`React` `Next.js` `TailwindCSS` `Vite`
-
-</td>
-</tr>
-<tr>
-<td><sub><b>BACKEND</b></sub></td>
-<td>
-
-`Node.js` `Express` `Fastify`
-
-</td>
-</tr>
-<tr>
-<td><sub><b>DATABASES</b></sub></td>
-<td>
-
-`MySQL` `PostgreSQL` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td><sub><b>INFRA</b></sub></td>
-<td>
-
-`Git` `Docker` `Linux VPS` `Nginx` `VS Code` `Figma`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[SCAN_TO_ORDER Web App](https://github.com/sharkvortex/SCAN_TO_ORDER_Web-APP)**
-<br>
-QR code-based ordering system for restaurants — customers scan, order,
-and pay without a server needing to take the order manually.
-<br><br>
-<sub>`TypeScript`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[GuestChatOnline](https://github.com/sharkvortex/GuestChatOnline-Websocket)**
-<br>
-Real-time chat application built with WebSockets for instant,
-low-latency messaging between guests.
-<br><br>
-<sub>`TypeScript` `WebSocket`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[SCB Sandbox API Integration](https://github.com/sharkvortex/Scb_Sendbox_Api-True_Wallet_TopUp)**
-<br>
-Payment gateway integration with SCB's sandbox API for True Wallet
-top-up transactions.
-<br><br>
-<sub>`JavaScript` `Payment API`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Schedule Pro](https://github.com/sharkvortex/Schedule_Pro)**
-<br>
-Class schedule organizer that helps students track their timetable
-and manage assignment deadlines in one place.
-<br><br>
-<sub>`TypeScript`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[IoT Fire Alert](https://github.com/sharkvortex/IoT-FireAlert)**
-<br>
-Embedded fire detection system built on IoT hardware, sending
-real-time alerts when smoke or heat thresholds are exceeded.
-<br><br>
-<sub>`C++` `IoT`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-[**View all repositories →**](https://github.com/sharkvortex?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-psi-sooty.vercel.app/api?username=sharkvortex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-psi-sooty.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=sharkvortex&theme=tokyonight&hide_border=true&background=0d1117&disable_animations=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-## Get in Touch
-
-<p align="center">
-<a href="mailto:payuttobunma.pt@gmail.com"><img src="https://img.shields.io/badge/-payuttobunma.pt%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=8b95a1" alt="Email" /></a>
-<a href="https://github.com/sharkvortex"><img src="https://img.shields.io/badge/-sharkvortex-0d1117?style=flat-square&logo=github&logoColor=8b95a1" alt="GitHub" /></a>
-</p>
-
-<p align="center"><sub>Always open to interesting projects and collaboration.</sub></p>
-
-<br>
-
-<div align="center">
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6" alt="" />
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
